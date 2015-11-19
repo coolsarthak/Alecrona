@@ -1,26 +1,18 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# Alecrona
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+Alecrona is the technical and cultural festival of Shri Vaishnav Institute of Technology and Science, Indore. This website is built on bootstrap and has borrowed some code from [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) template.
 
 ## Getting Started
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+To use this template, do the below in sequence:
+* Read this whole mark down first.
+* Search for pending stuff in `requirements.txt`.
+* Download the [zip file](https://github.com/PiyushDeshmukh/Alecrona/archive/master.zip) of the template.
 
-## Bugs and Issues
+## Bugs, Issues, and Pending Stuff
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Please have a look at `requirements.txt`, Especially the photoshop team, you have a lot of pending stuff!
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+The site's scripts are licensed under MIT License.
