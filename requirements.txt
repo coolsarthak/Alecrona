@@ -1,0 +1,4 @@
+Requirements:
+
+3 images for intro 1920*1080
+Fading Images from center to top and center to bottom

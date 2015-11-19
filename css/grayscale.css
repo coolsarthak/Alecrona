@@ -184,7 +184,7 @@ a:focus {
 
     .intro .intro-body .intro-text {
         font-size: 26px;
-        color: #000000;
+        color: #FFFFFF;
     }
 }
 
@@ -445,6 +445,14 @@ body {
     color: #FF4500;
 }
 
+#workshopHeading {
+  color:#FFDD11;
+  text-align: center;
+}
+
+#workshopDetails {
+  color: #000000;
+}
 
 /*Modal Window*/
 
@@ -475,13 +483,13 @@ body {
 }
 
 .modalDialog > div {
-	width: 80%;
-  height: 70%;
+	width: 85%;
+  height: 60%;
 	position: relative;
 	margin: 10% auto;
 	padding: 5px 20px 13px 20px;
 	border-radius: 10px;
-	background: #fff;
+	background: #000;
 	background: -moz-linear-gradient(#fff, #999);
 	background: -webkit-linear-gradient(#fff, #999);
 	background: -o-linear-gradient(#fff, #999);
