@@ -675,6 +675,7 @@ body {
 .content-item {
   background: url(http://dribbble.s3.amazonaws.com/users/21389/screenshots/537633/image_ink_logo.png);
   background-size: contain;
+  border-radius: 25%;  
   -moz-backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
