@@ -12,6 +12,7 @@ To use this template, do the below in sequence:
 ## Bugs, Issues, and Pending Stuff
 
 Please have a look at `requirements.txt`, Especially the photoshop team, you have a lot of pending stuff!
+For more pending stuff regarding the website, peep on the issues section.
 
 ## Copyright and License
 

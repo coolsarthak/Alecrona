@@ -9,3 +9,4 @@ Pendings:
 - The "About" section on homepage that will give a short intro about the fest and the college
 - 350*270px images for Workshops section on index.html
 - Add register option on each workshop and event
+- Design the feedback page
