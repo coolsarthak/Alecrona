@@ -17,3 +17,7 @@ Requirements:
     Corresponding fee structure
     Venue (i.e. CS Department, RnD, Auditorium...)
     Contacts (should include some volunteer from the college)
+- Create Social Networking pages for :
+    Facebook
+    Twitter
+    Google+
